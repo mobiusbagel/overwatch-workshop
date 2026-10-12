@@ -17,6 +17,15 @@ window, then it's free-for-all, then it expires.
 - Share code: TBD
 - Status: build doc complete, in-editor build in progress
 
+### Fatal 4-Way (archived)
+4-team deathmatch on Halloween maps (Château Guillard, Hollywood). Perks on,
+newer heroes disabled. Mostly lobby-settings-driven; Workshop script is a
+single stub rule.
+
+- Mode notes: `modes/fatal-4-way/README.md`
+- Script text: `modes/fatal-4-way/workshop-script.txt` ("Copy Settings" export)
+- Share code: TBD
+
 ## Tools
 
 ### Placer

@@ -1,0 +1,66 @@
+settings
+{
+	main
+	{
+		Description: "4-team deathmatch"
+		Mode Name: "Fatal 4-Way"
+	}
+
+	lobby
+	{
+		Allow Players Who Are In Queue: Yes
+		Map Rotation: After A Game
+		Max Spectators: 12
+		Return To Lobby: Never
+		Swap Teams After Match: No
+	}
+
+	modes
+	{
+		disabled Clash 6v6
+		{
+			Capture Speed Modifier: 45%
+		}
+
+		Deathmatch
+		{
+			Enable Perks: On
+			Perk Generation: 100%
+			Self Initiated Respawn: Off
+
+			enabled maps
+			{
+				Château Guillard Halloween 972777519512063901
+				Hollywood Halloween 972777519512063901
+			}
+		}
+	}
+
+	heroes
+	{
+		General
+		{
+			disabled heroes
+			{
+				Anran
+				D.Mon
+				Doctrine
+				Domina
+				Emre
+				Jetpack Cat
+				Mizuki
+				Shion
+				Sierra
+				Vendetta
+			}
+		}
+	}
+}
+
+rule("Rule 1")
+{
+	event
+	{
+		Ongoing - Global;
+	}
+}
