@@ -1,0 +1,15 @@
+# Placer — Workshop script text
+
+Nothing here yet.
+
+## How to export from the game
+
+1. Open your Skirmish placer lobby.
+2. Settings → Workshop.
+3. Click **Copy Settings**, paste the clipboard contents into this file,
+   replacing everything above.
+
+## How to import
+
+1. Copy the entire contents of this file.
+2. In a custom game lobby: Settings → Workshop → **Import Settings**, paste.

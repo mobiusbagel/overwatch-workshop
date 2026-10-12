@@ -1,0 +1,23 @@
+# Items & Inventory — Workshop script text
+
+Nothing here yet.
+
+## How to export from the game
+
+1. Open your custom game lobby.
+2. Settings → Workshop.
+3. Click **Copy Settings** (copies the entire script as text).
+4. Paste the clipboard contents into this file, replacing everything above.
+
+## How to import
+
+1. Copy the entire contents of this file.
+2. In a custom game lobby: Settings → Workshop → **Import Settings**, paste.
+   (The Import button appears once text is on the clipboard.)
+
+## Notes
+
+- Share codes (5–6 characters) are the easier share path for players; this file
+  is the durable backup. Record the share code in the repo README when published.
+- The build doc (`build-doc.md`) is the source of truth for the design; this
+  file is the built artifact.
